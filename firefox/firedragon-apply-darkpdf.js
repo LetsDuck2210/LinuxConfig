@@ -1,1 +1,0 @@
-var s = document.createElement('style');s.innerHTML = "#viewerContainer > #viewer > .page > .canvasWrapper > canvas {filter: invert(1) contrast(75%);}.toolbar {filter: invert(100%);}#sidebarContainer > #toolbarSidebar {filter: invert(100%);}:root {--body-bg-color: rgb(20, 20, 20);--treeitem-color: rgb(255, 255, 255);}";document.head.appendChild(s);
