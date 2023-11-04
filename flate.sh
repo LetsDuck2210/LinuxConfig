@@ -14,4 +14,5 @@ else
 
 	tar -xzf total.tar.gz
 	rm part*
+	rm total.tar.gz
 fi
